@@ -1,5 +1,3 @@
-# cs50 Project
-
 # C-in Sudoku
 
 Command-line program in C/C++ that solves a classical Sudoku puzzle using logical constraints and backtracking
